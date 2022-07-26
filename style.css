@@ -1,0 +1,153 @@
+/* p{
+    background-color: blue;
+    text-align: center;
+    padding: 50px 40px 60px 70px; 
+    background-color: brown;
+    margin: 50px 60px 70px;
+    text-indent: 50px;
+    font-size: 30px;
+
+} */
+/* button{
+     margin-left: 650px;
+   padding: 10px 10px 10px;
+    border: 10px black;
+    border-color: blueviolet;
+    border-style: double;
+    border-radius: 45px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 20px;
+} */
+/* h1{
+    text-shadow: 3px 3px rgb(225, 65, 7);
+    text-align: center;
+} */
+*{
+    overflow-x: hidden;
+}
+button{
+    background-color: orangered;
+    color: aliceblue;
+    border: 3px;
+    padding: 10px 10px 10px;  
+}
+img.align-right {
+    float: right;
+    margin-left: 70px;
+  
+}
+button.BTN{
+    background-color: rgb(255, 123, 0);
+    color: beige;
+    float: right;
+    
+}
+
+img.align-right{
+    float: right;
+    margin-left: 50px;
+}
+p.cntat{
+    float: right;
+    margin-left: 50px;
+}
+p.srvs{
+    float: right;
+    margin-left: 50px;
+}
+p.frut{
+    float: right;
+    margin-left: 50px;
+}
+p.hme{
+    float: right;
+    margin-left: 50px;
+}
+h1.crvs{
+    text-align: center;
+}
+p.pra{
+    text-align: center;
+}
+button.butn{
+    background-color: black;
+    color: bisque;
+    
+     margin-left: 47%;
+
+
+}
+h1.fruts{
+    text-align: center;
+}
+p.par{
+    text-align: center;
+}
+img.pic{
+    float: right;
+    margin-right: 200px;
+}
+img.grp{
+    float: right;
+    margin-right: 200px;
+}
+img.gav{
+    float: right;
+    margin-right: 200px;
+}
+h2.tes{
+    text-align: center;
+}
+p.dum{
+    text-align: center;
+}
+img.clint{
+    float: right;
+    margin-right: 550px;
+}
+button.betn{
+    background-color: orangered;color: beige;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+img.orng{
+    float: right;
+  
+    height: 200px; width: 200px;
+}
+div.ume{
+    text-align: center;
+}
+div.srves{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.card{
+  border: 1px solid rgb(42, 42, 42); 
+  box-shadow: 0px 3px rgb(196, 189, 187);
+}
+.footer{
+    display: flex;
+margin-top: 100px;
+}
+.footer-part{
+    margin-right: 350px;
+}
+.footer-heading{
+    font-weight: bold;
+}
+.footer-img{
+    width: 30px;
+    height: 30px;
+}
+
+.footer-btn{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+}
